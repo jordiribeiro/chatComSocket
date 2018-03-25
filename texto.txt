@@ -1,0 +1,15 @@
+0 - <nome da máquina>127.0.0.1<ip da máquina>127.0.0.1/127.0.0.1<porta>#59461<mensagem> - CONECTOU
+1 - Jordi - saiu do chat 
+2 - <nome da máquina>127.0.0.1<ip da máquina>127.0.0.1/127.0.0.1<porta>#59597<mensagem> - CONECTOU
+3 - Joao - <nome da máquina>127.0.0.1<ip da máquina>127.0.0.1/127.0.0.1<porta>#59597<mensagem> =  ola
+4 - Joao - saiu do chat 
+0 - <nome da máquina>127.0.0.1<ip da máquina>127.0.0.1/127.0.0.1<porta>#59843<mensagem> - CONECTOU
+0 - <nome da máquina>127.0.0.1<ip da máquina>127.0.0.1/127.0.0.1<porta>#60145<mensagem> - CONECTOU
+0 - <nome da máquina>127.0.0.1<ip da máquina>127.0.0.1/127.0.0.1<porta>#60387<mensagem> - CONECTOU
+0 - <nome da máquina>127.0.0.1<ip da máquina>127.0.0.1/127.0.0.1<porta>#60413<mensagem> - CONECTOU
+0 - <nome da máquina>127.0.0.1<ip da máquina>127.0.0.1/127.0.0.1<porta>#60757<mensagem> - CONECTOU
+0 - <nome da máquina>127.0.0.1<ip da máquina>127.0.0.1/127.0.0.1<porta>#60847<mensagem> - CONECTOU
+0 - <nome da máquina>127.0.0.1<ip da máquina>127.0.0.1/127.0.0.1<porta>#60889<mensagem> - CONECTOU
+1 - jordi - saiu do chat
+0 - <nome da máquina>127.0.0.1<ip da máquina>127.0.0.1/127.0.0.1<porta>#61101<mensagem> - CONECTOU
+1 - ola - saiu do chat
